@@ -1,0 +1,317 @@
+body{
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    margin: 0;
+}
+/* header start */
+
+header{
+    padding: 15px 0;
+}
+
+.wrapper{
+    width: 70%;
+    margin: 0 auto;
+    overflow: hidden;
+    margin-bottom: 140px;
+}
+
+.logo{
+    float: left;
+    width: 15%;
+}
+
+.logo img{
+    width: 100%;
+}
+
+.menu{
+    float: left;
+    margin: -8px 0;
+}
+
+.menu ul{}
+
+.menu ul li{
+    list-style: none;
+    float: left;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    padding: 0 15px;
+    color: #3f3c53;
+    font-weight: bold;
+    font-size: 13px;
+    display: inline-block;
+}
+
+.menu a:hover{
+    color: #ff6162;
+}
+
+.wrapper button{
+    float: right;
+    padding: 12px 15px;
+    background-color: #ff6162;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 11px;
+}
+
+.wrapper button:hover{
+    background-color: #3f3c53;
+    color: #ff6162;
+}
+
+
+/* header end */
+
+
+/*2nd content start*/
+
+.text-1{
+    float: left;
+    width: 50%;
+}
+
+.text-1 h1{
+    padding-right: 120px;
+    line-height: 47px;
+    font-size: 37px;
+    color: #292640;
+}
+
+.text-1 p{
+    padding-right: 100px;
+    line-height: 25px;
+    color: #b6bdc7;
+}
+
+.icon a{
+    font-size: 25px;
+    color: #b6bdc7;
+}
+
+.icon a:hover{
+    color: #ff6162;
+}
+
+
+.picture{
+    float: right;
+    width: 50%;
+
+}
+
+.picture img{
+    width: 100%;
+}
+
+/*2nd content end*/
+
+
+/*3rd content start*/
+
+.text-2{
+    text-align: center;
+    margin-top: 125px;
+}
+
+.text-2 h1{
+    line-height: 0px;
+    color: #292640;
+}
+
+.text-2 p{
+    padding: 0px 280px;
+    line-height: 20px;
+    font-family: serif;
+    font-style: italic;
+    color: #b6bdc7;
+}
+/*3rd content end*/
+
+
+/*4th content start*/
+
+.wrapper-1{
+    width: 95%;
+    margin: 0 auto;
+    overflow: hidden;
+    margin-top: -130px;
+}
+
+.features{
+    float: left;
+    width: 23%;
+    margin-right: 38px;
+    cursor: pointer;
+}
+
+.features:last-child{
+    margin-right: 0;
+}
+
+.features h5{
+    text-align: center;
+    color: #636667;
+    margin-top: 10px;
+}
+.picture-1:hover{
+    box-shadow: 0 1px 10px 0 gray;
+}
+
+.picture-1 img{
+    width: 100%;
+}
+
+/*4th content end*/
+
+.line{
+    border-left: 3px solid #eaeaed;
+    height: 60px;
+    margin: 5% 50% 0% 50%;
+}
+
+/*5th content start*/
+
+.text-3{
+    text-align: center;
+    margin-top: 140px;
+}
+.text-3 h1{
+    line-height: 0px;
+    color: #292640;
+}
+.text-3 p{
+    padding: 0px 280px;
+    line-height: 20px;
+    font-family: serif;
+    font-style: italic;
+    color: #b6bdc7;
+}
+
+.f_s{
+    width: 260px;
+    height: 180px;
+    background-color: #f5f5f5;
+    padding: 0 25px 30px 25px;
+    border-radius: 5px;
+    float: left;
+    margin: 20px 20px;
+}
+
+.design{
+    
+}
+
+.design h4{
+    text-align: center;
+    margin-top: 13px;
+    color: #292640;
+}
+
+.design p{
+    margin-top: -15px;
+    text-align: center;
+    font-size: 14px;
+    line-height: 20px;
+    color: #b6bdc7;
+}
+
+.icon-1{
+    text-align: center;
+
+}
+.icon-1 i{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    color: #ff6162;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    border-radius: 50%;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.icon-1 i:hover{
+    background-color: #ff6162;
+    color: white;
+}
+/*5th content end*/
+
+
+/*6th content start*/
+
+.wrapper-2{
+    width: 100%;
+    height: 460px;
+    background-color: #292640;
+    margin-top: -85px;
+}
+
+.wrapper-2 h1{
+    color: white;
+    padding-top: 115px;
+    margin: 0px 501px;
+    line-height: 50px;
+    text-align: center;
+    padding-bottom: 40px;
+    font-weight: 900;
+    font-size: 39px;
+}
+
+.wrapper-2 button{
+    padding: 12px 15px;
+    background-color: #ff6162;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 11px;
+    align-items: center;
+    margin: -50px 45%;
+}
+
+.wrapper-2 button:hover{
+    background-color: #3f3c53;
+    color: #ff6162;
+}
+
+.icon-2{
+    color: #8d8b99;
+    text-align: center;
+    margin-top: 53px;
+}
+
+.icon-2 i{
+    font-size: 20px;
+}
+
+.icon-2 p{
+    font-size: 13px;
+}
+
+.icon-3{
+    text-align: right;
+    margin: 0 20px;
+}
+
+.icon-3 a{
+    color: #8d8b99;
+    font-size: 35px;
+}
+
+.icon-3 a:hover{
+    color: #ff6162;
+}
+/*6th content end*/
